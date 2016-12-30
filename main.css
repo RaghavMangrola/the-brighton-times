@@ -386,25 +386,3 @@ footer a {
     text-decoration: none;
     color: #333;
 }
-
-@media screen and (min-width: 550px) {
-    .content {
-        display: flex;
-        flex-wrap: wrap;
-    }
-    .hero {
-        width: 100%;
-    }
-    .top-news {
-        width: 50%;
-    }
-    .scores {
-        width: 50%;
-    }
-    .weather {
-        width: 50%;
-    }
-    .recent-news {
-        width: 50%;
-    }
-}
